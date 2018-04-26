@@ -1,3 +1,4 @@
 #set MetaFiles as binary in this folder
 *.mf -diff
 *.bin -diff
+*.bl binary
