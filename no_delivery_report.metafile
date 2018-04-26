@@ -1,0 +1,173 @@
+METAFILE0001            7742               4FILE             473UNA:+,? 'UNB+UNOC:3+2047061:65+KEMPER:65+180424:1001+T1792528'UNH+1+ORDERS:D:96B:UN:DESN10'BGM+227+0/0/0/09400180/B.174'DTM+4:20180424:102'DTM+2:20180425:102'RFF+AEP:A02717790/DIWE05'RFF+AFO:4877/16 TRUMPF SCHRAMBERG KEMP'RFF+AAS:0/S'NAD+WS+7012'CTA++:SIMON SCHAEDLICH'NAD+ST+++DIETRICH GMBH:NICHT PER PAKETDIENST!+AM LÄNGENBÜHL 18+LEONBERG++71229'TOD+6++DDP'LIN+1++68602012:MF'IMD+++ZU::89:KEMPER KHS TIMER 2 'QTY+12:1:PCE'PRI+NTP:304,25:::1'UNS+S'UNT+17+1'UNZ+1+T1792528'               6MD5SUM              32516d8fda4e187cc179a257b3deeb800e               6LENGTH              16             473               4TIME              16      1524558000               4NAME               9R3_118479               5TT_ID              26T20180424101959263138@CCVC              12FILE_MSG_INT               6ORDERS              14FILE_TNIDB_INT              11Kemper_Olpe              14FILE_TNIDA_INT              11Kemper_Olpe               9FWD_JAMES              10JAMES-CCIC               7COPYATT               3ALL              20RES_VIRTUEL_FILENAME              30ORDERS20180424101948118479.dnl               6INFILE              33/work/edicc/edicc/dat/r/R3_118479               8COPYFILE               3ALL               8FILE_IRF               6118479               4FILE            4291<?xml version="1.0" encoding="ISO-8859-1"?>
+<List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="/work/edicc/edicc/tools/XSLTS/cfg/Kunden/Kemper_11147/CC-Einrichtung/INDEX/xsd/ORDERS_D10A_PAT.xsd">
+  <S_UNB>
+    <C_S001>
+      <D_0001><![CDATA[UNOC]]></D_0001>
+      <D_0002><![CDATA[3]]></D_0002>
+    </C_S001>
+    <C_S002>
+      <D_0004><![CDATA[2047061]]></D_0004>
+      <D_0007><![CDATA[65]]></D_0007>
+    </C_S002>
+    <C_S003>
+      <D_0010><![CDATA[KEMPER]]></D_0010>
+      <D_0007_2><![CDATA[65]]></D_0007_2>
+    </C_S003>
+    <C_S004>
+      <D_0017><![CDATA[180424]]></D_0017>
+      <D_0019><![CDATA[1001]]></D_0019>
+    </C_S004>
+    <D_0020><![CDATA[T1792528]]></D_0020>
+  </S_UNB>
+  <M_ORDERS>
+    <S_UNH>
+      <D_0062><![CDATA[1]]></D_0062>
+      <C_S009>
+        <D_0065><![CDATA[ORDERS]]></D_0065>
+        <D_0052><![CDATA[D]]></D_0052>
+        <D_0054><![CDATA[96B]]></D_0054>
+        <D_0051><![CDATA[UN]]></D_0051>
+        <D_0057><![CDATA[DESN10]]></D_0057>
+      </C_S009>
+    </S_UNH>
+    <S_BGM>
+      <C_C002>
+        <D_1001><![CDATA[227]]></D_1001>
+      </C_C002>
+      <C_C106>
+        <D_1004><![CDATA[0/0/0/09400180/B.174]]></D_1004>
+      </C_C106>
+    </S_BGM>
+    <S_DTM>
+      <C_C507>
+        <D_2005><![CDATA[4]]></D_2005>
+        <D_2380><![CDATA[20180424]]></D_2380>
+        <D_2379><![CDATA[102]]></D_2379>
+      </C_C507>
+    </S_DTM>
+    <S_DTM>
+      <C_C507>
+        <D_2005><![CDATA[2]]></D_2005>
+        <D_2380><![CDATA[20180425]]></D_2380>
+        <D_2379><![CDATA[102]]></D_2379>
+      </C_C507>
+    </S_DTM>
+    <G_SG1>
+      <S_RFF>
+        <C_C506>
+          <D_1153><![CDATA[AEP]]></D_1153>
+          <D_1154><![CDATA[A02717790/DIWE05]]></D_1154>
+        </C_C506>
+      </S_RFF>
+    </G_SG1>
+    <G_SG1>
+      <S_RFF>
+        <C_C506>
+          <D_1153><![CDATA[AFO]]></D_1153>
+          <D_1154><![CDATA[4877/16 TRUMPF SCHRAMBERG KEMP]]></D_1154>
+        </C_C506>
+      </S_RFF>
+    </G_SG1>
+    <G_SG1>
+      <S_RFF>
+        <C_C506>
+          <D_1153><![CDATA[AAS]]></D_1153>
+          <D_1154><![CDATA[0/S]]></D_1154>
+        </C_C506>
+      </S_RFF>
+    </G_SG1>
+    <G_SG2>
+      <S_NAD>
+        <D_3035><![CDATA[WS]]></D_3035>
+        <C_C082>
+          <D_3039><![CDATA[7012]]></D_3039>
+        </C_C082>
+      </S_NAD>
+      <G_SG5>
+        <S_CTA>
+          <C_C056>
+            <D_3412><![CDATA[SIMON SCHAEDLICH]]></D_3412>
+          </C_C056>
+        </S_CTA>
+      </G_SG5>
+    </G_SG2>
+    <G_SG2>
+      <S_NAD>
+        <D_3035><![CDATA[ST]]></D_3035>
+        <C_C080>
+          <D_3036><![CDATA[DIETRICH GMBH]]></D_3036>
+          <D_3036_2><![CDATA[NICHT PER PAKETDIENST!]]></D_3036_2>
+        </C_C080>
+        <C_C059>
+          <D_3042><![CDATA[AM LÄNGENBÜHL 18]]></D_3042>
+        </C_C059>
+        <D_3164><![CDATA[LEONBERG]]></D_3164>
+        <D_3251><![CDATA[71229]]></D_3251>
+      </S_NAD>
+    </G_SG2>
+    <G_SG12>
+      <S_TOD>
+        <D_4055><![CDATA[6]]></D_4055>
+        <C_C100>
+          <D_4053><![CDATA[DDP]]></D_4053>
+        </C_C100>
+      </S_TOD>
+    </G_SG12>
+    <G_SG29>
+      <S_LIN>
+        <D_1082><![CDATA[1]]></D_1082>
+        <C_C212>
+          <D_7140><![CDATA[68602012]]></D_7140>
+          <D_7143_3><![CDATA[MF]]></D_7143_3>
+        </C_C212>
+      </S_LIN>
+      <S_IMD_2>
+        <C_C273_2>
+          <D_7009_2><![CDATA[ZU]]></D_7009_2>
+          <D_3055_63><![CDATA[89]]></D_3055_63>
+          <D_7008_4><![CDATA[KEMPER KHS TIMER 2 ]]></D_7008_4>
+        </C_C273_2>
+      </S_IMD_2>
+      <S_QTY_4>
+        <C_C186_4>
+          <D_6063_4><![CDATA[12]]></D_6063_4>
+          <D_6060_4><![CDATA[1]]></D_6060_4>
+          <D_6411_14><![CDATA[PCE]]></D_6411_14>
+        </C_C186_4>
+      </S_QTY_4>
+      <G_SG33>
+        <S_PRI>
+          <C_C509>
+            <D_5125><![CDATA[NTP]]></D_5125>
+            <D_5118><![CDATA[304.25]]></D_5118>
+            <D_5284_2><![CDATA[1]]></D_5284_2>
+          </C_C509>
+        </S_PRI>
+      </G_SG33>
+    </G_SG29>
+    <S_UNS>
+      <D_0081><![CDATA[S]]></D_0081>
+    </S_UNS>
+    <S_UNT>
+      <D_0074><![CDATA[17]]></D_0074>
+      <D_0062_2><![CDATA[1]]></D_0062_2>
+    </S_UNT>
+  </M_ORDERS>
+  <S_UNZ>
+    <D_0036><![CDATA[1]]></D_0036>
+    <D_0020_2><![CDATA[T1792528]]></D_0020_2>
+  </S_UNZ>
+</List>
+               6MD5SUM              320dae457ca5a933d4ca4c08aef28a5288               6LENGTH              16            4291               4TIME              16      1524558000               4NAME              13R3_118479.xml               4FILE             306[EDI_DATEN]
+User=KEMPER_EDI
+DWDocType=00A4_00
+Page=001
+Collectid=180424102000T1792528
+EDI_TYP=ORDERS
+Datum=24.04.2018
+Dateiname=ORDERS180424102000121299.dnl
+Dokumentennummer=0/0/0/09400180/B.174
+Dokumentendatum=20180424
+SenderkennungUNB=2047061
+EmpfaengerkennungUNB=KEMPER
+PartnerkennungBY=7012               6MD5SUM              32143b7e2711a441f8d31c2c903ca47f20               6LENGTH              16             306               4TIME              16      1524558000               4NAME              28ORDERS180424102000121299.dn$              11SPLIT_PARTS               10              10TT_CONTEXT               3EDI              15XSLTS_FILE_TYPE              21TRANSFORMATION_RESULT              15XSLTS_FILE_TYPE              17PREPROCESS_RESULT              15XSLTS_FILE_TYPE              26COPIED_FROM_INPUT_METAFILE              17EC_APPLICATION_ID              12INDEX-ORDERS              13EC_PARTNER_ID              10JAMES-CCIC              19EC_VIRTUAL_FILENAME              12INDEX-ORDERS              13SEND_COM_TYPE               7EdiStar              12JAMES_UDATA4              1420180424102001              12JAMES_UDATA5               6121299              16TS_JAMES_SEND_IN              1720180424102003101              15CUSTOMERID_SEND               511147              18JAMES_PARTNER_SEND              11Kemper_Olpe              14LANGZEITARCHIV               3ftp               8JAMES_DR               5false               8JAMES_DR               5false              10JAMES_APPL              12ARCHIVE-PROD              10JAMES_SEND               4TRUE              10JAMES_SEND               4TRUE               4NAME              28ORDERS180424102000121299.dnl              14SEND_TOTAL_LEN              16             779              17TS_JAMES_SEND_OUT              1720180424102017759               0            7826               0               0               4root            8459            7934               1              28              28ORDERS180424102000121299.dnl            8020               0               0             607               6LENGTH            8104               0               0             661               4TIME            8190               0               0             537               6MD5SUM            8285               0               0            6675              15XSLTS_FILE_TYPE            8375               0               0            7504              10JAMES_SEND               0               0               0            7550               4NAME            8544               0               0             758               5TT_ID            8636               0               0             821              12FILE_MSG_INT            8730               0               0             871              14FILE_TNIDB_INT            8824               0               0             928              14FILE_TNIDA_INT            8913               0               0             985               9FWD_JAMES            9000               0               0            1036               7COPYATT            9100               0               0            1078              20RES_VIRTUEL_FILENAME            9186               0               0            1160               6INFILE            9274               0               0            1231               8COPYFILE            9362               0               0            1274               8FILE_IRF            9890            9455               1            1320              13R3_118479.xml            9539               0               0            5823               4NAME            9625               0               0            5717               6LENGTH            9709               0               0            5771               4TIME            9795               0               0            5647               6MD5SUM               0               0               0            6611              15XSLTS_FILE_TYPE           10523            9998               1            5872              28ORDERS180424102000121299.dn$           10082               0               0            6390               4NAME           10168               0               0            6284               6LENGTH           10252               0               0            6338               4TIME           10338               0               0            6214               6MD5SUM           10433               0               0            6543              15XSLTS_FILE_TYPE               0               0               0            7458              10JAMES_SEND           10614               0               0            6454              11SPLIT_PARTS           10704               0               0            6498              10TT_CONTEXT           10801               0               0            6748              17EC_APPLICATION_ID           10894               0               0            6809              13EC_PARTNER_ID           10993               0               0            6864              19EC_VIRTUAL_FILENAME           11086               0               0            6927              13SEND_COM_TYPE           11178               0               0            6979              12JAMES_UDATA4           11270               0               0            7037              12JAMES_UDATA5           11366               0               0            7087              16TS_JAMES_SEND_IN           11461               0               0            7152              15CUSTOMERID_SEND           11559               0               0            7204              18JAMES_PARTNER_SEND           11653               0               0            7265              14LANGZEITARCHIV           11741               0               0            7359               8JAMES_DR           11831               0               0            7404              10JAMES_APPL           11925               0               0            7614              14SEND_TOTAL_LEN               0               0               0            7676              17TS_JAMES_SEND_OUT
